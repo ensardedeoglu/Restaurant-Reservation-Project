@@ -1,5 +1,5 @@
 
-# Restaurant Reservation
+## Restaurant Reservation
 
 # A Restaurant Reservation System intended for internal use by restaurant employees. 
 
