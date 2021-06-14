@@ -1,13 +1,13 @@
 
 # Restaurant Reservation
 
-> A Restaurant Reservation System intended for internal use by restaurant employees. 
+# A Restaurant Reservation System intended for internal use by restaurant employees. 
 
 [Restaurant Reservation System](https://front-end-lime-one.vercel.app/)
 
 ## 💻 Technology Used
 
-# HTML, CSS, JavaScript, React, Express, Node.js, PostgreSQL, Knex.js, React Bootstrap, and Bootstrap 4.
+> HTML, CSS, JavaScript, React, Express, Node.js, PostgreSQL, Knex.js, React Bootstrap, and Bootstrap 4.
 
 ## 📸 Screenshots
 
