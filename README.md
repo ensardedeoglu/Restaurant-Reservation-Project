@@ -5,7 +5,7 @@
 
 > The Dashboard page displays available tables, dates, and reservations for the specific date.
 
-[Restaurant Reservation System](https://front-end-lime-one.vercel.app/)
+Live Demo: [Restaurant Reservation System](https://front-end-lime-one.vercel.app/)
 
 ## 💻 Technology Used
 
