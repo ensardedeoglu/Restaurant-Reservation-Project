@@ -3,6 +3,8 @@
 
 # A Restaurant Reservation System intended for internal use by restaurant employees. 
 
+> The Dashboard page displays available tables, dates, and reservations for the specific date.
+
 [Restaurant Reservation System](https://front-end-lime-one.vercel.app/)
 
 ## 💻 Technology Used
